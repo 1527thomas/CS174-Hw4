@@ -1,1 +1,3 @@
-# CS174-Hw4
+Thomas Wang 011372153
+Danny Song 012152738
+Colin Chow 012273222
