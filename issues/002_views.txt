@@ -1,0 +1,4 @@
+Create initial views 
+
+1. Homepage
+2. JigsawPage

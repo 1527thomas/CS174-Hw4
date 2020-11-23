@@ -1,0 +1,7 @@
+1. javascript file should validate the file on the client side before going to uploadcontroller
+
+2. js file should also change style of tile border when user clicks on it to indicate selected state. 
+If the user clicks on the tile again, it should revert the selected state
+
+3. js file should handle swapping through changes to the styles of the two tiles
+

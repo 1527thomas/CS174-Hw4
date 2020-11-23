@@ -1,5 +1,12 @@
 {
     "require": {
-        "monolog/monolog": "1.0.*"
+        "monolog/monolog": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "cs174\\hw4\\models\\": "src/models",
+            "cs174\\hw4\\controllers\\": "src/controllers",
+            "cs174\\hw4\\views\\": "src/views"
+        }
     }
 }

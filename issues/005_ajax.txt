@@ -1,0 +1,5 @@
+1. Once tiles are swapped, send ajax message to server to update active_image.txt file
+
+2. Before sending swap ajax message, JS file should check to see if puzzle is solved
+If it is, create alert for congratulations with ok button. Ok button will
+send the ajax and reload page.

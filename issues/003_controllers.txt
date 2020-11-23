@@ -1,0 +1,5 @@
+1. Once a user uploads an image, the controller should change to render the jigsawPage
+
+2. If on the jigsawPage, the jpg should render under the form in permutated order
+
+3. UploadController adds the uploaded img to resources and handles logic for producing active_image.txt
